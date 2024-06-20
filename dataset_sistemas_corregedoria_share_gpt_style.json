@@ -4223,28 +4223,28 @@
     {"from": "human", "value": "Quais são os sistemas utilizados pela corregedoria?"},
     {
       "from": "gpt",
-      "value": "A corregedoria utiliza os seguintes sistemas: Banco de Peritos, Banco de Projetos Sociais, BNMP 2.0, CNACL, CNCIAI, CNIEP, CNIUIS, CRCJUD, CNIB, Gratuidade da Justiça, INFOSEG, Malote Digital, BACENJUD, RENAJUD, Sistema Controle da Corregedoria, Sistema de Apoio Técnico Relacionado a Saúde Pública e Suplementar, SISTAC, CCs-BACEN, Sistema de Consulta para Órgãos Externos, INFOJUD, SINIC, Sistema de Informações da Junta Comercial do Estado de Goiás – CONVÊNIOS, SERASAJUD, Sistema MPORTAL, SMC, SNA, SNBA, SNCI, SINALID, VC, GOIASPEN."
+      "value": "A corregedoria utiliza os seguintes sistemas:\n- Banco de Peritos\n- Banco de Projetos Sociais\n- BNMP 2.0\n- CNACL\n- CNCIAI\n- CNIEP\n- CNIUIS\n- CRCJUD\n- CNIB\n- Gratuidade da Justiça\n- INFOSEG\n- Malote Digital\n- BACENJUD\n- RENAJUD\n- Sistema Controle da Corregedoria\n- Sistema de Apoio Técnico Relacionado a Saúde Pública e Suplementar\n- SISTAC\n- CCs-BACEN\n- Sistema de Consulta para Órgãos Externos\n- INFOJUD\n- SINIC\n- Sistema de Informações da Junta Comercial do Estado de Goiás – CONVÊNIOS\n- SERASAJUD\n- Sistema MPORTAL\n- SMC\n- SNA\n- SNBA\n- SNCI\n- SINALID\n- VC\n- GOIASPEN."
     }
   ],
   [
     {"from": "human", "value": "Pode me informar quais são os sistemas da corregedoria?"},
     {
       "from": "gpt",
-      "value": "Os sistemas da corregedoria incluem: Banco de Peritos, Banco de Projetos Sociais, BNMP 2.0, CNACL, CNCIAI, CNIEP, CNIUIS, CRCJUD, CNIB, Gratuidade da Justiça, INFOSEG, Malote Digital, BACENJUD, RENAJUD, Sistema Controle da Corregedoria, Sistema de Apoio Técnico Relacionado a Saúde Pública e Suplementar, SISTAC, CCs-BACEN, Sistema de Consulta para Órgãos Externos, INFOJUD, SINIC, Sistema de Informações da Junta Comercial do Estado de Goiás – CONVÊNIOS, SERASAJUD, Sistema MPORTAL, SMC, SNA, SNBA, SNCI, SINALID, VC, GOIASPEN."
+      "value": "Os sistemas da corregedoria incluem:\n- Banco de Peritos\n- Banco de Projetos Sociais\n- BNMP 2.0\n- CNACL\n- CNCIAI\n- CNIEP\n- CNIUIS\n- CRCJUD\n- CNIB\n- Gratuidade da Justiça\n- INFOSEG\n- Malote Digital\n- BACENJUD\n- RENAJUD\n- Sistema Controle da Corregedoria\n- Sistema de Apoio Técnico Relacionado a Saúde Pública e Suplementar\n- SISTAC\n- CCs-BACEN\n- Sistema de Consulta para Órgãos Externos\n- INFOJUD\n- SINIC\n- Sistema de Informações da Junta Comercial do Estado de Goiás – CONVÊNIOS\n- SERASAJUD\n- Sistema MPORTAL\n- SMC\n- SNA\n- SNBA\n- SNCI\n- SINALID\n- VC\n- GOIASPEN."
     }
   ],
   [
     {"from": "human", "value": "Quais sistemas são geridos pela corregedoria?"},
     {
       "from": "gpt",
-      "value": "A corregedoria gere os seguintes sistemas: Banco de Peritos, Banco de Projetos Sociais, BNMP 2.0, CNACL, CNCIAI, CNIEP, CNIUIS, CRCJUD, CNIB, Gratuidade da Justiça, INFOSEG, Malote Digital, BACENJUD, RENAJUD, Sistema Controle da Corregedoria, Sistema de Apoio Técnico Relacionado a Saúde Pública e Suplementar, SISTAC, CCs-BACEN, Sistema de Consulta para Órgãos Externos, INFOJUD, SINIC, Sistema de Informações da Junta Comercial do Estado de Goiás – CONVÊNIOS, SERASAJUD, Sistema MPORTAL, SMC, SNA, SNBA, SNCI, SINALID, VC, GOIASPEN."
+      "value": "A corregedoria gere os seguintes sistemas:\n- Banco de Peritos\n- Banco de Projetos Sociais\n- BNMP 2.0\n- CNACL\n- CNCIAI\n- CNIEP\n- CNIUIS\n- CRCJUD\n- CNIB\n- Gratuidade da Justiça\n- INFOSEG\n- Malote Digital\n- BACENJUD\n- RENAJUD\n- Sistema Controle da Corregedoria\n- Sistema de Apoio Técnico Relacionado a Saúde Pública e Suplementar\n- SISTAC\n- CCs-BACEN\n- Sistema de Consulta para Órgãos Externos\n- INFOJUD\n- SINIC\n- Sistema de Informações da Junta Comercial do Estado de Goiás – CONVÊNIOS\n- SERASAJUD\n- Sistema MPORTAL\n- SMC\n- SNA\n- SNBA\n- SNCI\n- SINALID\n- VC\n- GOIASPEN."
     }
   ],
   [
     {"from": "human", "value": "Você pode listar todos os sistemas da corregedoria?"},
     {
       "from": "gpt",
-      "value": "Claro, aqui estão os sistemas da corregedoria: Banco de Peritos, Banco de Projetos Sociais, BNMP 2.0, CNACL, CNCIAI, CNIEP, CNIUIS, CRCJUD, CNIB, Gratuidade da Justiça, INFOSEG, Malote Digital, BACENJUD, RENAJUD, Sistema Controle da Corregedoria, Sistema de Apoio Técnico Relacionado a Saúde Pública e Suplementar, SISTAC, CCs-BACEN, Sistema de Consulta para Órgãos Externos, INFOJUD, SINIC, Sistema de Informações da Junta Comercial do Estado de Goiás – CONVÊNIOS, SERASAJUD, Sistema MPORTAL, SMC, SNA, SNBA, SNCI, SINALID, VC, GOIASPEN."
+      "value": "Claro, aqui estão os sistemas da corregedoria:\n- Banco de Peritos\n- Banco de Projetos Sociais\n- BNMP 2.0\n- CNACL\n- CNCIAI\n- CNIEP\n- CNIUIS\n- CRCJUD\n- CNIB\n- Gratuidade da Justiça\n- INFOSEG\n- Malote Digital\n- BACENJUD\n- RENAJUD\n- Sistema Controle da Corregedoria\n- Sistema de Apoio Técnico Relacionado a Saúde Pública e Suplementar\n- SISTAC\n- CCs-BACEN\n- Sistema de Consulta para Órgãos Externos\n- INFOJUD\n- SINIC\n- Sistema de Informações da Junta Comercial do Estado de Goiás – CONVÊNIOS\n- SERASAJUD\n- Sistema MPORTAL\n- SMC\n- SNA\n- SNBA\n- SNCI\n- SINALID\n- VC\n- GOIASPEN."
     }
   ]
 ]
